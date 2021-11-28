@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dasun Wickramasooriya (@dasunwickr)
 - 👀 I’m interested in full stack development , programming and Linux
-- 🌱 I’m currently learning Statistics & Operations Research @ University of Peradeniya , Reactjs , C programming , Java and Python
+- 🌱 I’m currently learning Statistics & Operations Research @ University of Peradeniya , R programming , C programming , Java and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
