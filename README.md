@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Thathsara Dasun Wickramasooriya (@dasunwickr)
-- 👀 I’m interested in full stack development , programming and Linux
-- 🌱 I’m currently learning Statistics & Operations Research @ University of Peradeniya , R programming , C programming , Java and Python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in full-stack development, programming, and Linux
+- 🌱 I’m currently learning the MERN stack.
+- 💞️ I’m looking to collaborate on MERN & MEAN projects, AI/ML projects and research.
 - 📫 How to reach me ...
 
 <!---
