@@ -57,12 +57,9 @@
 <!--- stats (end) -->
 
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That Dasun Knows👨🏻‍💻</h2></summary>
-  </ul>
-</div>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
